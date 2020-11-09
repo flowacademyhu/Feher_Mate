@@ -1,0 +1,45 @@
+ 1995  mkdir szakaszzaro
+ 1996  cd szakaszzaro/
+ 1997  touch szakaszzaro_feladat
+ 1998  echo man
+ 1999  ls
+ 2000  echa -man
+ 2001  echo -man
+ 2002  echo "Hello" > szakaszzaro_feladat
+ 2003  mv szakaszzaro_feladat feladat
+ 2004  cp feladat feladat2
+ 2005  ls
+ 2006  rm feladat2
+ 2007  ls
+ 2008  cat feladat
+ 2009  grep -man
+ 2010  grep 'NetworkManager' /var/log/syslog
+ 2011  grep 'NetworkManager' /var/log/syslog > feladat
+ 2012  nano feladat
+ 2013  nano ~/.bash_history
+ 2014* nano parancso
+ 2015  ls
+ 2016  git init
+ 2017  git clone https://github.com/flowacademyhu/Feher_Mate.git
+ 2018  ls
+ 2019  cd ..
+ 2020  add feladat parancsok
+ 2021  git status
+ 2022  cd szakaszzaro/
+ 2023  git status
+ 2024  add feladat parancsok
+ 2025  git add feladat parancsok
+ 2026  git status
+ 2027  git commit
+ 2028  git push
+ 2029  ls
+ 2030  cd Feher_Mate
+ 2031  cd ..
+ 2032  cp feladat /Feher_Mate
+ 2033  cp feladat /Feher_Mate/feladat
+ 2034  mv feladat /Feher_Mate
+ 2035  cd ..
+ 2036  nano /history
+ 2037  ls
+ 2038  nano /history
+ 2039  history
